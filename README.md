@@ -1,4 +1,4 @@
-# test
+# 同步互斥
 同步互斥解法-软件
 写的比较详细的博客：https://blog.csdn.net/JustJavaC2016/article/details/78660768
 
